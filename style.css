@@ -1,0 +1,212 @@
+.dit{
+    color:black;
+ }
+ .Column1{
+     display: flex;
+     gap: 10%;
+ }
+ .navbar{
+     display: flex;
+     gap:25px;
+ }
+ body{
+     margin-left: 3%;
+ }
+ .feature{
+     color: black;
+ }
+ .Column2{
+     display: flex;
+ }
+ .header{
+     margin-top: 12%;
+ }
+ .headerr{
+     font-size: 285%;
+     color:black;
+     font-weight: bold;
+ }
+ 
+ 
+ .plus{
+     font-weight: bold;
+ }
+ .over{
+     text-align: center;
+     font-size: 135%;
+ }
+ .imagess{
+     display: flex;
+     margin-left: 12%;
+     width: 40%;
+     gap: 10%;
+ }
+ .prod{
+     text-align: center;
+     font-size: 165%;
+ }
+ .product{
+     color: red;
+ }
+ .easy{
+     font-size: 210%;
+ }
+ .delivered{
+     color: black;
+     text-align: center;
+ }
+ .overdelivered{
+     display: flex;
+     gap: 5%;
+     align-items: center;
+ }
+ .del{
+     color: black;
+     text-align: center;
+     width: 25%;
+ }
+ .rates{
+     font-size: 123%;
+     font-weight: bold;
+ }
+ .dit{
+     color: red;
+ }
+ .ditio{
+     display: grid;
+     grid-template-columns: auto auto;
+     gap:1%;
+ }
+ .letussee{
+     display: flex;
+     gap:10%;
+ }
+ .helping{
+     text-align: center;
+     font-size: 140%;
+ }
+ .customer{
+     color: red;
+ }
+ .know{
+     background-color: black;
+     color: white;
+ }
+ .interface{
+     display: flex;
+     gap: 10%;
+ }
+ .some{
+     font-size: 160%;
+     text-align: center;
+ }
+ .somewords{
+     color: red;
+ }
+ .people{
+     display: flex;
+     gap: 10%;
+ }
+ .edwin{
+
+     border-radius:4%;
+ }
+ .column6{
+    display: flex;
+ }
+
+ .footer{
+    display: flex;
+    background-color:blue;
+    color: white;
+    justify-content: space-evenly;
+    text-align: center;
+
+}
+
+.Copyright{
+    display: flex;
+    background-color:black;
+    color: white;
+}
+
+@media screen and (min-width:375px) and (max-width:435px){
+    
+    .Column1{
+        display: flex;
+        gap: 1px;
+        font-size: 9px;
+    }
+    .Column2{
+        display: grid;
+    }
+    
+.header p{
+    font-size: 12px;
+}
+.header img{
+    width: 100px;
+}
+.imagess{
+    display: grid;
+    margin-left: 12%;
+    width: 40%;
+    gap: 10%;
+}
+.column3 img{
+    width: 200px;
+}
+.over{
+    font-size: 10px;
+    margin-left: -102px;
+}
+.prod{
+    font-size: 15px;
+    margin-left: -103px;
+}
+.overdelivered{
+    display: grid;
+    
+}
+.delivered1 {
+    display: grid;
+}
+.delivered2 img{
+    display: grid;
+}
+
+.login{
+    display: grid;
+}
+.woman img{
+    display: grid;
+}
+.lease img{
+    display: grid;
+}
+.mobile{
+    font-size: 15px;
+    margin-left:-103px;
+}
+.delivered2 img{
+    width: 20px;
+}
+.letussee{
+    display: grid;
+}
+.letussee img{
+width: 300px;
+}
+.interface{
+    display: grid;
+}
+.interface img{
+    width: 300px;
+}
+.people{
+    display: grid;
+}
+.column6{
+    display: grid;
+}
+}
